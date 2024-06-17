@@ -1,12 +1,20 @@
-- 👋 Hi, I’m Robson (@rob-mp0)
-- 👀 I’m interested in becoming a full-stack developer
-- 🌱 I’m currently learning through the DIO - Python AI Backend Developer bootcamp and improving my English with EF - Education First
-- 💞️ I’m looking to collaborate on any projects that will help me grow as a developer
-- 📫 How to reach me: You can email me at robson_art_08@hotmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/robson-m-3506a8214/).
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy solving complex puzzles and logic challenges!
+### Hello, I'm Robson Mantovani Pereira (rob-mp0) 🧑‍💻
 
-<!---
-rob-mp0/rob-mp0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robson-m-3506a8214/)
+
+* Tech enthusiast, gaming lover, and dreamer.
+
+💻 I'm a **student** at [DIO](https://dio.me) and my goal is to become a Full Stack developer.
+
+📖 I'm a **student** at [EF](https://www.ef.com.br/) with the aim of achieving fluency in English.
+
+### 🎓 Recent Courses
+* [Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3](https://web.dio.me/track/bootcamp-nexa-fundamentos-de-ia-generativa-e-claude-3) **
+
+### 📊 GitHub Statistics
+
+![rob-mp0's GitHub stats](https://github-readme-stats.vercel.app/api?username=rob-mp0&show_icons=true&theme=tokyonight)
+
+### 📌 Featured Projects
+
+[![Lab-natty-or-not](https://github-readme-stats.vercel.app/api/pin/?username=rob-mp0&repo=lab-natty-or-not)](https://github.com/rob-mp0/lab-natty-or-not)
