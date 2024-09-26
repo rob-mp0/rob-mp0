@@ -4,7 +4,7 @@
 
 * Tech enthusiast, gaming lover, and dreamer.
 
-💻 I'm a **student** at [DIO](https://dio.me) and my goal is to become a Full Stack developer.
+💻 I'm a **student** at [Dev Club](https://aulas.devclub.com.br/m/home) and my goal is to become a Full Stack developer.
 
 📖 I'm a **student** at [EF](https://www.ef.com.br/) with the aim of achieving fluency in English.
 
